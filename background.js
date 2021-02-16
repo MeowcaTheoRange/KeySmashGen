@@ -24,7 +24,7 @@ function copyTextToClipboard(text) {
 }
 const random = (length = 280) => {
     // Declare all characters
-    let chars = 'byv8WRBHUIPEWVGUILYUGEWRB2yihjgoevuhef79                                             ouhcuweeeeaaaaaeeeeeiiiiiiiooooooooouuuuuuuu111115555555222222224444444888888866666660000000999bcpqzilehuic;;;g32cuikvyou8cuewio9guikuiljkeo;ewie]kewfipoe[pfevhewvio';
+    let chars = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ439843984938498498394394398439439843948394391234567890asdfghjkl;[][][]  ';
   
     // Pick characers randomly
     let str = '';
