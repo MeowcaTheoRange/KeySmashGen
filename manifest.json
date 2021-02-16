@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Keysmash Generator",
-    "version": "1.2",
+    "name": "KeySmashGen",
+    "version": "1.3",
     
   
       "content_scripts": [
